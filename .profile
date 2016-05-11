@@ -41,3 +41,6 @@ export PATH="/Applications/Postgres.app/Contents/Versions/9.3/bin:$PATH"
 # Android dev
 export ANDROID_HOME=/Users/luke/android-sdk-macosx
 export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
+
+export EDITOR=vim
+export GEM_EDITOR=subl
