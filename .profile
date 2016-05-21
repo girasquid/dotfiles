@@ -30,6 +30,8 @@ export PATH="/Users/luke/projects/flash/toolchain/air-sdk/bin:$PATH"
 export AIR_SDK_HOME="/Users/luke/projects/flash/toolchain/air-sdk"
 # ^^ Adds the root of the AIR SDK so that it can load the java libs it needs
 
+# Because I type make twice a lot
+alias makemake='make'
 alias rt='ruby -Itest'
 # chruby
 source /usr/local/opt/chruby/share/chruby/chruby.sh
