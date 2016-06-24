@@ -46,4 +46,4 @@ export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
 
 export EDITOR=vim
 export GEM_EDITOR=subl
-export BUNDLE_EDITOR=subl
+export BUNDLER_EDITOR=subl
