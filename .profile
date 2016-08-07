@@ -40,6 +40,9 @@ source /usr/local/opt/chruby/share/chruby/auto.sh
 # Postgres binaries, for installing do_postgres
 export PATH="/Applications/Postgres.app/Contents/Versions/9.3/bin:$PATH"
 
+# Itch.io command line tools
+export PATH="/Users/luke/Library/Application Support/itch/bin:$PATH"
+
 # Android dev
 export ANDROID_HOME=/Users/luke/android-sdk-macosx
 export PATH=$PATH:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
